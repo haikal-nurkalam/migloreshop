@@ -1,0 +1,15 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+  background-image: url("../img/images.png");
+  background-repeat: repeat;
+}
+
+.p-img-top {
+  height: 250px;
+  min-height: 250px;
+}
